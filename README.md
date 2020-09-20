@@ -69,7 +69,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 
   * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
-  * **Note:** Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
 
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
